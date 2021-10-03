@@ -1,9 +1,11 @@
-# Flappy_Bird
+# Flappy Bird
 
 # INTRODUCTION 
 - Flappy bird is GUI based project developed using python.
 
 # Instructions 
+- Register your account 
+- Enter your registered username and password . 
 - Use ↑ or Space key to play and Esc to close the game.
 
 
