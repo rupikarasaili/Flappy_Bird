@@ -15,7 +15,7 @@
 
 # Tools Used
 
-The tools I used for this project are as shown below and if you do not have such program you can directly download it by clicking on it.
+The tools I used for this project are mentioned below and if you do not have such program you can directly download it by clicking on it.
 
 -  [Github](https://github.com) for version control
 -  [pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows) for coding .
