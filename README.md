@@ -1,7 +1,7 @@
 # Flappy Bird
 
 # INTRODUCTION 
-- Flappy bird is GUI based project developed using python.
+- Flappy bird is GUI based project developed using python-pygame.
 
 # Instructions 
 - Register your account 
