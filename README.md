@@ -5,6 +5,8 @@
 
 # Instructions 
 - Use ↑ or Space key to play and Esc to close the game.
+
+
 <img width="217" alt="1" src="https://user-images.githubusercontent.com/82575375/135750335-6fa8b8b3-a04e-4436-8fcf-41bc0280ac9a.png">   <img width="218" alt="12" src="https://user-images.githubusercontent.com/82575375/135750338-a0772ed2-be41-47e8-bb07-6c9df7b187c4.png">
 
 
